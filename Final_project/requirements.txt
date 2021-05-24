@@ -1,0 +1,6 @@
+gensim
+kafka-python
+lightgbm
+numpy
+pandas
+
